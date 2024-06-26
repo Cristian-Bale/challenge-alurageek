@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Styles/reset.css" >
+    <link rel="stylesheet" href="Styles/STYLE.css">
+    <title>MI ALURAGEEK</title>
+</head>
+<body>
+    <header class="header"></header>
+    <p class="titulo">ALURAGEEK</p>
+    <!-- //en el codigo de arriba falta algo.. // -->
+    <main class="main-container">
+    <section class="miproducto">
+        <h1>Mis productos</h1>
+        <div data-product class="products-container">
+            </div>
+    </section>
+    
+        <section class="productos">
+            <h2>Agregar Productos:</h2>
+            <form class="form-container" data-form>
+                <input data-name placeholder="nombre" type="text">
+                <input data-price placeholder="precio" type="text">
+                <input data-image placeholder="imagen" type="text">
+            </form>
+            
+                <div class="button-container">
+                    <button type="submit" class="button-submit" id="buttonEnviar">Enviar</button> 
+                    <button type="reset" class="button-clear" id="buttonLimpiar">Limpiar</button>
+                </div>
+
+            
+        </section>
+    </main>
+    <footer class="footer-container">
+        <p>Cristian Duran</p>
+        <p class="p__footer-2">Alura latam 2024</p>
+    </footer>
+    <script type="module" src="JS/CONTROLERS/main.js"></script>
+</body>
+</html>

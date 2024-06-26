@@ -1,0 +1,46 @@
+{
+  "productos": [
+    {
+      "name": "Goku",
+      "price": "$1000",
+      "image": "https://m.media-amazon.com/images/I/51zUyiYK2iL.jpg",
+      "id": "1"
+    },
+    {
+      "name": "Goku",
+      "price": "$1000",
+      "image": "https://m.media-amazon.com/images/I/51zUyiYK2iL.jpg",
+      "id": "1"
+    },
+    {
+      "name": "Goku",
+      "price": "$1000",
+      "image": "https://m.media-amazon.com/images/I/51zUyiYK2iL.jpg",
+      "id": "1"
+    },
+    {
+      "name": "Vegeta",
+      "price": "$500",
+      "image": "https://i5.walmartimages.com/seo/Bandai-Dragon-Ball-Super-Super-Hero-S-H-Figuarts-Vegeta-Action-Figure_70f2b418-9e89-41d5-9b9c-aa5c3a547320.884790938773b68f8260cfdd2c94cfaa.jpeg",
+      "id": "2"
+    },
+    {
+      "name": "Thrunks ",
+      "price": "$200",
+      "image": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/f8cfa107-0959-43d4-ace9-3b13d46674bb.47bcdd81360d939f0e16f0e3ca3b1fef.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "id": "3"
+    },
+    {
+      "name": "Krilin",
+      "price": "$100",
+      "image": "https://www.kametoys.cl/wp-content/uploads/2022/06/dragon-ball-z-shfiguarts-krillin-earth-s-strongest-man-2.jpg",
+      "id": "3"
+    },
+    {
+      "name": "Krilin",
+      "price": "$100",
+      "image": "https://www.kametoys.cl/wp-content/uploads/2022/06/dragon-ball-z-shfiguarts-krillin-earth-s-strongest-man-2.jpg",
+      "id": "3"
+    }
+  ]
+}
