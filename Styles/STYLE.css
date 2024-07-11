@@ -26,10 +26,7 @@ header{
 
 }
 
-main{
-    
-    
-}
+
 
 .main-container{
     display: flex;
@@ -64,10 +61,7 @@ h2{
     
 }
 
-.productos{
-   
-   
-}
+
     
 .form-container{
     display: flex;
@@ -107,9 +101,7 @@ input{
  
 }
 
-.products-container::-webkit-scrollbar-track {
-    
-}
+
 
 .products-container{
    display:flex;
@@ -194,14 +186,14 @@ input{
 .footer-container{
     text-align: center;
     font-size: 20px;
-    margin-top: 250px;
+    margin-top: 450px;
     display: flex;
     justify-content: center;
     flex-direction: column;
-    position: fixed;
+    position:fixed;
     bottom: 0;
     width: 100%;
-    margin-bottom: 20px;
+    margin-bottom: 1%;
       
 }
 

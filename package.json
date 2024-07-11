@@ -4,10 +4,10 @@
   "main": "index.js",
   "scripts": {
     "start": "json-server --watch ./database/db.json --port 3000"
+    
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": ""
 }
-
